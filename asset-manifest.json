@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dz-ts-final/static/css/main.10b2f9cc.css",
+    "main.js": "/dz-ts-final/static/js/main.ebdb20cb.js",
+    "index.html": "/dz-ts-final/index.html",
+    "main.10b2f9cc.css.map": "/dz-ts-final/static/css/main.10b2f9cc.css.map",
+    "main.ebdb20cb.js.map": "/dz-ts-final/static/js/main.ebdb20cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10b2f9cc.css",
+    "static/js/main.ebdb20cb.js"
+  ]
+}
